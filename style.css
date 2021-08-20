@@ -199,6 +199,10 @@ footer{
         width: 350px;
     }
 
+    header{
+        background-image: url(/images/bg-header-mobile.png);
+    }
+
     header > .container >h1{
         font-size: 30px;
     }
